@@ -4,7 +4,7 @@ title: "Your blog post title"
 
 date: YYYY-MM-DD
 
----
+
 author: Eric
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
