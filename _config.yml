@@ -1,5 +1,12 @@
----
-title: "Your blog post title"
+title: Eric's webpage
 date: 2021-05-22
----
----
+author: Eric
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  About me
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
